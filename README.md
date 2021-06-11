@@ -11,7 +11,7 @@ This is libs for Jenkins CI
 
 dependencies { 
         implementation 'androidx.cardview:cardview:1.0.0'
-		    implementation fileTree(include: [ '*.aar'], dir: '../dialtimerpicker/dist')        
+	implementation fileTree(include: [ '*.aar'], dir: '../dialtimerpicker/dist')        
 		...
 
 ```
